@@ -7,4 +7,4 @@ Instead of calling out names or signing sheets, the system simply scans faces us
 Want to see it in action? 🚀  
 Check out our sleek **mobile app** built with React Native and Expo Go – check attendance right from your phone!:
 
-👉 [Download the App (APK)](https://expo.dev/artifacts/eas/79TaaNZKtXHXK5setKmsB6.apk)
+👉 [Download the App (APK)](https://expo.dev/artifacts/eas/iuViLyRWuFdcgvS8AWCjTY.apk)
